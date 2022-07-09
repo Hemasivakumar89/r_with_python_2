@@ -22,4 +22,4 @@ dependencies:
     - statsmodels
     - seaborn
     - urllib3
-    - os
+    
