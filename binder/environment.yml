@@ -15,6 +15,7 @@ dependencies:
   - r-tidyverse
   - r-pander
   - r-knitr
+  - r-shiny
   - pip
   - pip:
     - plotly
