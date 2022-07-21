@@ -16,6 +16,7 @@ dependencies:
   - r-pander
   - r-knitr
   - r-shiny
+  - r-caret
   - pip
   - pip:
     - plotly
